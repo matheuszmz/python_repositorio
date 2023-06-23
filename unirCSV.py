@@ -1,6 +1,5 @@
 import os
 import glob
-#os.chdir("C:\\Users\\f7022470\\Downloads")
 
 diretorio = os.getcwd()
 output = '{}\\Output\\{}'.format(diretorio,'propostas.csv')
